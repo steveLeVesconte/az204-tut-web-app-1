@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "az204-tut-web-app-1", "az204-tut-web-app-1.csproj", "{D04CBD49-7A79-4FE7-9CFA-DE279537C6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04CBD49-7A79-4FE7-9CFA-DE279537C6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04CBD49-7A79-4FE7-9CFA-DE279537C6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04CBD49-7A79-4FE7-9CFA-DE279537C6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04CBD49-7A79-4FE7-9CFA-DE279537C6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8E3B06-35B2-46D6-BB14-66510B040FEB}
+	EndGlobalSection
+EndGlobal
